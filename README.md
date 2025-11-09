@@ -1,6 +1,3 @@
-# Portfolio
-The following site has been setup to show any work by @danmeal
-
 # Installation
 
 ## To Run Locally
